@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/89575981/260128756-2b71a4a7-de4d-40c2-9330-b101bd3cc637.gif" alt="coding image" />
-</p>
+
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 

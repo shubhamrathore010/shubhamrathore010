@@ -3,9 +3,9 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
   Hi 👋, I'm [Shubham Rathore](https://www.linkedin.com/in/shubhamrathore010/)
-Full Stack Developer with expertise in JavaScript, React, Node.js, and MongoDB ExpressJS, and Firebase . 
+Full Stack Developer with expertise in C,C++, JavaScript, React, Node.js, and MongoDB ExpressJS. 
 <br />
-I have designed secure user authentication systems using JWT tokens and cookies and optimized database performance. Experienced in deploying
+I have designed Blog Application with secure user authentication systems using JWT tokens and cookies and optimized database performance. Experienced in deploying
 applications to AWS and creating responsive interfaces with EJS and CSS. Certified in JavaScript algorithms and data structures, I focus on building efficient and scalable web solutions.</h3>
 
 <p align="left"> <a href="https://twitter.com/shubhamrat57933" target="blank"><img src="https://img.shields.io/twitter/follow/shubhamrat57933?logo=twitter&style=for-the-badge" alt="shubhamrat57933" /></a> </p>

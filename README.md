@@ -3,7 +3,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
   Hi 👋, I'm [Shubham Rathore](https://www.linkedin.com/in/shubhamrathore010/)
-Full Stack Developer with expertise in C,C++, JavaScript, React, Node.js, and MongoDB ExpressJS. 
+Full Stack Developer with expertise in C, C++, JavaScript, React, Node.js, MongoDB and ExpressJS. 
 <br />
 I have designed Blog Application with secure user authentication systems using JWT tokens and cookies and optimized database performance. Experienced in deploying
 applications to AWS and creating responsive interfaces with EJS and CSS. Certified in JavaScript algorithms and data structures, I focus on building efficient and scalable web solutions.</h3>
@@ -12,7 +12,7 @@ applications to AWS and creating responsive interfaces with EJS and CSS. Certifi
 
 **Talking about Personal Stuff:**
 
-- 🌱 I'm currently dedicated to mastering Full-Stack Development actively contributing to open-source projects.
+- 🌱 I'm currently dedicated to mastering Full-Stack Development actively contributing to open-source projects and learning DSA.
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/shubhamrathore010/">Github</a>
 
